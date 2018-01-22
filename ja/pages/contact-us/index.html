@@ -474,48 +474,56 @@ a.underlined,a code,.card-container.grid .card-link p{hyphens:manual;overflow-wr
         </div>
         <div class="article-page--copy">
           <div class="body">
-            <p>We're here to keep you on two wheels. Give us a call with any questions, comments or feedback regarding any of our products. We're available 9am-6pm on weekdays, 9-am-5pm at weekends.</p>
-<form method="post" class="p2" action-xhr="/components/amp-form/submit-form-input-text-xhr" target="_top" custom-validation-reporting="show-all-on-submit">
-  <div class="ampstart-input inline-block relative m0 p0 mb3">
+            <p><strong>(주)텔레트론</strong><br />
+경기도 안양시 동안구 관양동 1459-2 텔레트론빌딩<br />대표전화: 031-340-7000 팩스: 031-340-7199</p>
+<p>문의사항이나 기타 의견이 있으시면 아래 양식에 적어서 보내 주시기 바랍니다. 담당자 확인 후 신속하게 답변 드리겠습니다. 답변은 입력하신 이메일 또는 전화로 받아보실 수 있습니다. (필수 항목은 * 표시)</p>
+<form method="post"
+    action-xhr="https://example.com/subscribe"
+    custom-validation-reporting="show-all-on-submit"
+    target="_blank">
 
-    <input type="text" name="name" id="show-all-on-submit-name" class="block border-none p0 m0" placeholder="Full name *" required pattern="\w+\s\w+" />
-    <label for="name" class="absolute top-0 right-0 bottom-0 left-0" aria-hidden="true">Full name</label>
-    <span visible-when-invalid="valueMissing" validation-for="show-all-on-submit-name"></span>
-    <span visible-when-invalid="patternMismatch" validation-for="show-all-on-submit-name">Please enter your first and last name separated by a space (e.g. Jane Miller)</span>
+  <div class="">
 
-    <input type="text" name="email" id="show-all-on-submit-email" class="block border-none p0 m0" placeholder="E-Mail address *" required/>
-    <label for="email" class="absolute top-0 right-0 bottom-0 left-0" aria-hidden="true">E-Mail address</label>
-    <span visible-when-invalid="valueMissing" validation-for="show-all-on-submit-email"></span>
-    <span visible-when-invalid="typeMismatch" validation-for="show-all-on-submit-email"></span>
+    <p><label for="name" class="" aria-hidden="true">Full name *</label>
+    <input type="text" name="name" id="submit-name" class="" placeholder="Full name" required pattern="\w+\s\w+">
+    <span visible-when-invalid="valueMissing" validation-for="submit-name"></span>
+    <span visible-when-invalid="patternMismatch" validation-for="submit-name"><br />Please enter your first and last name separated by a space (e.g. Jane Miller)</span></p>
 
-    <input type="text" name="telephone" id="telephone" class="block border-none p0 m0" placeholder="Telephone" required/>
-    <label for="telephone" class="absolute top-0 right-0 bottom-0 left-0" aria-hidden="true">Telephone</label>
+    <p><label for="email" class="" aria-hidden="true">E-Mail *</label>
+    <input type="email" name="email" id="submit-email" class="" placeholder="E-Mail" required>
+    <span visible-when-invalid="valueMissing" validation-for="submit-email"></span>
+    <span visible-when-invalid="typeMismatch" validation-for="submit-email"></span></p>
 
-    <input type="text" name="subject" id="subject" class="block border-none p0 m0" placeholder="Subject" required/>
-    <label for="subject" class="absolute top-0 right-0 bottom-0 left-0" aria-hidden="true">Subject</label>
+    <p><label for="telephone" class="" aria-hidden="true">Telephone</label>
+    <input type="text" name="telephone" id="telephone" class="" placeholder="Telephone"></p>
 
-    <textarea name="mesage" id="mesage" class="block border-none  p0 m0" rows="10"  placeholder="Type your message"></textarea>
-    <label for="message" class="absolute top-0 right-0 bottom-0 left-0" aria-hidden="true">Message</label>
+    <p><label for="subject" class="" aria-hidden="true">Subject</label>
+    <input type="text" name="subject" id="subject" class="" placeholder="Subject"></p>
+
+    <p><label for="message" class="" aria-hidden="true">Message</label>
+    <textarea name="message" id="message" class="" rows="8"  placeholder="Type your message"></textarea></p>
 
   </div>
 
   <div>
-    <button type="submit" class="ampstart-btn ampstart-btn-secondary caps">send</button>
+    <input type="submit" value="send" class="button">
   </div>
 
   <div submit-success>
     <template type="amp-mustache">
-      Success! Thanks  for trying the
-      <code>amp-form</code> demo! Try to insert the word "error" as a name input in the form to see how
-      <code>amp-form</code> handles errors.
+        <p>Congratulations! You are registered with </p>
     </template>
   </div>
+
   <div submit-error>
     <template type="amp-mustache">
-      Error! Thanks  for trying the
-      <code>amp-form</code> demo with an error response.
+      <p>Something went wrong. Try again later?</p>
     </template>
   </div>
+
+
+
+
 </form>
 
           </div>
