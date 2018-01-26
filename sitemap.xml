@@ -133,6 +133,12 @@
     <loc>http://localhost/ja/support/developer/sketch-scroll-or-swipe/</loc>
   </url>
   <url>
+    <loc>http://localhost/ja/support/developer/test/</loc>
+  </url>
+  <url>
+    <loc>http://localhost/ja/support/developer/test1/</loc>
+  </url>
+  <url>
     <loc>http://localhost/ko/</loc>
   </url>
   <url>
@@ -235,6 +241,12 @@
     <loc>http://localhost/ko/support/developer/sketch-scroll-or-swipe/</loc>
   </url>
   <url>
+    <loc>http://localhost/ko/support/developer/test/</loc>
+  </url>
+  <url>
+    <loc>http://localhost/ko/support/developer/test1/</loc>
+  </url>
+  <url>
     <loc>http://localhost/latest/</loc>
   </url>
   <url>
@@ -305,6 +317,12 @@
   </url>
   <url>
     <loc>http://localhost/support/developer/sketch-scroll-or-swipe/</loc>
+  </url>
+  <url>
+    <loc>http://localhost/support/developer/test/</loc>
+  </url>
+  <url>
+    <loc>http://localhost/support/developer/test1/</loc>
   </url>
   <url>
     <loc>http://localhost/zh_cn/</loc>
@@ -407,5 +425,11 @@
   </url>
   <url>
     <loc>http://localhost/zh_cn/support/developer/sketch-scroll-or-swipe/</loc>
+  </url>
+  <url>
+    <loc>http://localhost/zh_cn/support/developer/test/</loc>
+  </url>
+  <url>
+    <loc>http://localhost/zh_cn/support/developer/test1/</loc>
   </url>
 </urlset>

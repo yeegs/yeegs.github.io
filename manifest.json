@@ -1,11 +1,11 @@
 {
-  "name": "AMPProject.org",
-  "short_name": "AMP",
+  "name": "Teletron Inc.",
+  "short_name": "Teletron",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#0379C4",
-  "description": "The official website and documentation for the Accelerated Mobile Pages project.",
+  "description": "The website of Teletron Inc.(in development)",
   "icons": [{
     "src": "/static/img/icons/48.png",
     "sizes": "48x48",
@@ -31,7 +31,7 @@
     "sizes": "192x192",
     "type": "image/png"
   }, {
-    "src": "/static/img/icons/any.svg",
+    "src": "/static/img/icons/192.png",
     "sizes": "any"
   }]
 }
