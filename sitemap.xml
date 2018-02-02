@@ -31,262 +31,133 @@
     <loc>http://localhost/about-us/partners/</loc>
   </url>
   <url>
-    <loc>http://localhost/ja/</loc>
+    <loc>http://localhost/en/</loc>
   </url>
   <url>
-    <loc>http://localhost/ja/404/</loc>
+    <loc>http://localhost/en/404/</loc>
   </url>
   <url>
-    <loc>http://localhost/ja/about-us/</loc>
+    <loc>http://localhost/en/about-us/</loc>
   </url>
   <url>
-    <loc>http://localhost/ja/about-us/careers/</loc>
+    <loc>http://localhost/en/about-us/careers/</loc>
   </url>
   <url>
-    <loc>http://localhost/ja/about-us/company-overview/</loc>
+    <loc>http://localhost/en/about-us/company-overview/</loc>
   </url>
   <url>
-    <loc>http://localhost/ja/about-us/letter-from-president-ceo/</loc>
+    <loc>http://localhost/en/about-us/letter-from-president-ceo/</loc>
   </url>
   <url>
-    <loc>http://localhost/ja/about-us/location/</loc>
+    <loc>http://localhost/en/about-us/location/</loc>
   </url>
   <url>
-    <loc>http://localhost/ja/about-us/our-business/</loc>
+    <loc>http://localhost/en/about-us/our-business/</loc>
   </url>
   <url>
-    <loc>http://localhost/ja/about-us/our-history/</loc>
+    <loc>http://localhost/en/about-us/our-history/</loc>
   </url>
   <url>
-    <loc>http://localhost/ja/about-us/partners/</loc>
+    <loc>http://localhost/en/about-us/partners/</loc>
   </url>
   <url>
-    <loc>http://localhost/ja/latest/</loc>
+    <loc>http://localhost/en/latest/</loc>
   </url>
   <url>
-    <loc>http://localhost/ja/latest/blog</loc>
+    <loc>http://localhost/en/latest/blog</loc>
   </url>
   <url>
-    <loc>http://localhost/ja/latest/blog/20171001/</loc>
+    <loc>http://localhost/en/latest/blog/20171001/</loc>
   </url>
   <url>
-    <loc>http://localhost/ja/latest/blog/20171002/</loc>
+    <loc>http://localhost/en/latest/blog/20171002/</loc>
   </url>
   <url>
-    <loc>http://localhost/ja/latest/blog/20171015/</loc>
+    <loc>http://localhost/en/latest/blog/20171015/</loc>
   </url>
   <url>
-    <loc>http://localhost/ja/latest/blog/20171101/</loc>
+    <loc>http://localhost/en/latest/blog/20171101/</loc>
   </url>
   <url>
-    <loc>http://localhost/ja/latest/blog/20171116/</loc>
+    <loc>http://localhost/en/latest/blog/20171116/</loc>
   </url>
   <url>
-    <loc>http://localhost/ja/latest/blog/20171122/</loc>
+    <loc>http://localhost/en/latest/blog/20171122/</loc>
   </url>
   <url>
-    <loc>http://localhost/ja/latest/blog/20171210/</loc>
+    <loc>http://localhost/en/latest/blog/20171210/</loc>
   </url>
   <url>
-    <loc>http://localhost/ja/latest/blog/new-and-improved-google-design/</loc>
+    <loc>http://localhost/en/latest/blog/new-and-improved-google-design/</loc>
   </url>
   <url>
-    <loc>http://localhost/ja/pages/contact-us/</loc>
+    <loc>http://localhost/en/pages/contact-us/</loc>
   </url>
   <url>
-    <loc>http://localhost/ja/pages/privacy/</loc>
+    <loc>http://localhost/en/pages/privacy/</loc>
   </url>
   <url>
-    <loc>http://localhost/ja/products/applications/</loc>
+    <loc>http://localhost/en/products/applications/</loc>
   </url>
   <url>
-    <loc>http://localhost/ja/products/iot/</loc>
+    <loc>http://localhost/en/products/iot/</loc>
   </url>
   <url>
-    <loc>http://localhost/ja/products/ip-routing/</loc>
+    <loc>http://localhost/en/products/ip-routing/</loc>
   </url>
   <url>
-    <loc>http://localhost/ja/products/ip-routing/7210-service-access-switch/</loc>
+    <loc>http://localhost/en/products/ip-routing/7210-service-access-switch/</loc>
   </url>
   <url>
-    <loc>http://localhost/ja/products/ip-routing/7250-interconnect-router/</loc>
+    <loc>http://localhost/en/products/ip-routing/7250-interconnect-router/</loc>
   </url>
   <url>
-    <loc>http://localhost/ja/products/ip-routing/7450-ethernet-service-switch/</loc>
+    <loc>http://localhost/en/products/ip-routing/7450-ethernet-service-switch/</loc>
   </url>
   <url>
-    <loc>http://localhost/ja/products/ip-routing/7705-service-aggregation-router/</loc>
+    <loc>http://localhost/en/products/ip-routing/7705-service-aggregation-router/</loc>
   </url>
   <url>
-    <loc>http://localhost/ja/products/ip-routing/7750-service-router/</loc>
+    <loc>http://localhost/en/products/ip-routing/7750-service-router/</loc>
   </url>
   <url>
-    <loc>http://localhost/ja/products/ip-routing/7950-extensible-routing-system/</loc>
+    <loc>http://localhost/en/products/ip-routing/7950-extensible-routing-system/</loc>
   </url>
   <url>
-    <loc>http://localhost/ja/products/ip-routing/virtualized-service-router/</loc>
+    <loc>http://localhost/en/products/ip-routing/virtualized-service-router/</loc>
   </url>
   <url>
-    <loc>http://localhost/ja/products/policy-control/</loc>
+    <loc>http://localhost/en/products/policy-control/</loc>
   </url>
   <url>
-    <loc>http://localhost/ja/products/sd-wan/</loc>
+    <loc>http://localhost/en/products/sd-wan/</loc>
   </url>
   <url>
-    <loc>http://localhost/ja/products/security/</loc>
+    <loc>http://localhost/en/products/security/</loc>
   </url>
   <url>
-    <loc>http://localhost/ja/products/wireless-access/</loc>
+    <loc>http://localhost/en/products/wireless-access/</loc>
   </url>
   <url>
-    <loc>http://localhost/ja/support/developer/</loc>
+    <loc>http://localhost/en/support/developer/</loc>
   </url>
   <url>
-    <loc>http://localhost/ja/support/developer/7750-service-router1/</loc>
+    <loc>http://localhost/en/support/developer/7750-service-router1/</loc>
   </url>
   <url>
-    <loc>http://localhost/ja/support/developer/new-and-improved-google-design/</loc>
+    <loc>http://localhost/en/support/developer/new-and-improved-google-design/</loc>
   </url>
   <url>
-    <loc>http://localhost/ja/support/developer/overview/</loc>
+    <loc>http://localhost/en/support/developer/overview/</loc>
   </url>
   <url>
-    <loc>http://localhost/ja/support/developer/sketch-scroll-or-swipe/</loc>
+    <loc>http://localhost/en/support/developer/sketch-scroll-or-swipe/</loc>
   </url>
   <url>
-    <loc>http://localhost/ja/support/developer/test/</loc>
+    <loc>http://localhost/en/support/developer/test/</loc>
   </url>
   <url>
-    <loc>http://localhost/ja/support/developer/test1/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/ko/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/ko/404/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/ko/about-us/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/ko/about-us/careers/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/ko/about-us/company-overview/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/ko/about-us/letter-from-president-ceo/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/ko/about-us/location/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/ko/about-us/our-business/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/ko/about-us/our-history/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/ko/about-us/partners/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/ko/latest/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/ko/latest/blog</loc>
-  </url>
-  <url>
-    <loc>http://localhost/ko/latest/blog/20171001/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/ko/latest/blog/20171002/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/ko/latest/blog/20171015/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/ko/latest/blog/20171101/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/ko/latest/blog/20171116/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/ko/latest/blog/20171122/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/ko/latest/blog/20171210/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/ko/latest/blog/new-and-improved-google-design/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/ko/pages/contact-us/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/ko/pages/privacy/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/ko/products/applications/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/ko/products/iot/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/ko/products/ip-routing/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/ko/products/ip-routing/7210-service-access-switch/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/ko/products/ip-routing/7250-interconnect-router/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/ko/products/ip-routing/7450-ethernet-service-switch/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/ko/products/ip-routing/7705-service-aggregation-router/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/ko/products/ip-routing/7750-service-router/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/ko/products/ip-routing/7950-extensible-routing-system/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/ko/products/ip-routing/virtualized-service-router/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/ko/products/policy-control/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/ko/products/sd-wan/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/ko/products/security/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/ko/products/wireless-access/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/ko/support/developer/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/ko/support/developer/7750-service-router1/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/ko/support/developer/new-and-improved-google-design/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/ko/support/developer/overview/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/ko/support/developer/sketch-scroll-or-swipe/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/ko/support/developer/test/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/ko/support/developer/test1/</loc>
+    <loc>http://localhost/en/support/developer/test1/</loc>
   </url>
   <url>
     <loc>http://localhost/latest/</loc>
@@ -386,134 +257,5 @@
   </url>
   <url>
     <loc>http://localhost/support/developer/test1/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/zh_cn/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/zh_cn/404/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/zh_cn/about-us/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/zh_cn/about-us/careers/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/zh_cn/about-us/company-overview/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/zh_cn/about-us/letter-from-president-ceo/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/zh_cn/about-us/location/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/zh_cn/about-us/our-business/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/zh_cn/about-us/our-history/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/zh_cn/about-us/partners/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/zh_cn/latest/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/zh_cn/latest/blog</loc>
-  </url>
-  <url>
-    <loc>http://localhost/zh_cn/latest/blog/20171001/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/zh_cn/latest/blog/20171002/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/zh_cn/latest/blog/20171015/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/zh_cn/latest/blog/20171101/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/zh_cn/latest/blog/20171116/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/zh_cn/latest/blog/20171122/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/zh_cn/latest/blog/20171210/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/zh_cn/latest/blog/new-and-improved-google-design/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/zh_cn/pages/contact-us/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/zh_cn/pages/privacy/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/zh_cn/products/applications/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/zh_cn/products/iot/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/zh_cn/products/ip-routing/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/zh_cn/products/ip-routing/7210-service-access-switch/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/zh_cn/products/ip-routing/7250-interconnect-router/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/zh_cn/products/ip-routing/7450-ethernet-service-switch/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/zh_cn/products/ip-routing/7705-service-aggregation-router/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/zh_cn/products/ip-routing/7750-service-router/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/zh_cn/products/ip-routing/7950-extensible-routing-system/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/zh_cn/products/ip-routing/virtualized-service-router/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/zh_cn/products/policy-control/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/zh_cn/products/sd-wan/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/zh_cn/products/security/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/zh_cn/products/wireless-access/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/zh_cn/support/developer/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/zh_cn/support/developer/7750-service-router1/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/zh_cn/support/developer/new-and-improved-google-design/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/zh_cn/support/developer/overview/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/zh_cn/support/developer/sketch-scroll-or-swipe/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/zh_cn/support/developer/test/</loc>
-  </url>
-  <url>
-    <loc>http://localhost/zh_cn/support/developer/test1/</loc>
   </url>
 </urlset>
